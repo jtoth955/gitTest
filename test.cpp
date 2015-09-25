@@ -10,6 +10,10 @@ int main() {
 
 	cout << "To make GIT work, you need to add, then commit, then push"
 
+	cout << endl;
+
+	cout << "Wahoo, I've got it!"
+
 	return 0;
 	
 }
