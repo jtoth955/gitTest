@@ -12,7 +12,7 @@ int main() {
 
 	cout << endl;
 
-	cout << "Wahoo, I've got it!"
+	cout << "Wah, I've got it!"
 
 	return 0;
 	
